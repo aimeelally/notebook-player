@@ -6,6 +6,9 @@
         "jupyterlab-kernel-spy",
         "jupyterlab-tour"
       ]
+    },
+    "@jupyterlab/apputils-extension:themes": {
+      "theme": "JupyterLab Dark"
     }
   }
   
